@@ -1,5 +1,5 @@
 👋 **Hi, I'm Abhishek Kumar**  
-A passionate **Machine Learning Enthusiast** with a knack for solving real-world problems using data and AI. I recently completed my Master of Computer Application, and I have hands-on experience in building and deploying machine learning models for tasks like **Fruit classification using CNN** and ** Twitter sentiment analysis **.
+A passionate **Machine Learning Enthusiast** with a knack for solving real-world problems using data and AI. I recently completed my Master of Computer Application, and I have hands-on experience in building and deploying machine learning models for tasks like **Fruit classification using CNN** and **Twitter sentiment analysis**.
 
 ### 🔧 **What I Work On:**
 - **Machine Learning & AI**: From predictive modeling to data-driven solutions, I love exploring how data can be transformed into intelligent insights.
